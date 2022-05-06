@@ -27,7 +27,7 @@
 
 # Screen Record of Detection:
 
-Link: https://drive.google.com/file/d/1Y6_yZDiTfaLmOb-bl5RqmbTtTDg4Ljei/view?usp=sharing
+Link: https://www.youtube.com/watch?v=GI6RYhoI1Bo
 (Tested on Ubuntu 21.04)
 
 # Reference:
