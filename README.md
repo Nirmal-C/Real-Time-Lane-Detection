@@ -25,7 +25,7 @@
 ![Screenshot 6](results/ss6.png)
 
 
-# Detected Video:
+# Screen Record of Detection:
 
 Link: https://drive.google.com/file/d/1Y6_yZDiTfaLmOb-bl5RqmbTtTDg4Ljei/view?usp=sharing
 (Tested on Ubuntu 21.04)
