@@ -3,7 +3,7 @@
 # Requirements:
 
 * Python version 3 or above (with pip, matplotlib, numpy, seaborn)
-* Pytorch
+* PyTorch
 * OpenCV Library for python package
 * Recommended CUDA with CUDNN (For Nvidia GPU Processing)
 * Yolo Version 5 Repository with yolov5s.pt model (required files are  included in this repository itself) 
